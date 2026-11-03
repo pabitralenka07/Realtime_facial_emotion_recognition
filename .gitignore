@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+*.swp
+*.swo
